@@ -18,9 +18,9 @@ if ($("#blogID").attr("blogID") != "1383756838318557030") {
 if ($("#blogID").attr("blogID") != "6950376941680164219") {
 if ($("#blogID").attr("blogID") != "4563103855169672072") {
 if ($("#blogID").attr("blogID") != "3180998569853003275") {
-if ($("#blogID").attr("blogID") != "") {
-if ($("#blogID").attr("blogID") != "") {
-if ($("#blogID").attr("blogID") != "") {
+if ($("#blogID").attr("blogID") != "6946173048541304234") {
+if ($("#blogID").attr("blogID") != "6946173048541304234") {
+if ($("#blogID").attr("blogID") != "6946173048541304234") {
 window.location.href = "https://www.web-ponto.com/2018/05/stylich-4-2-1.html"
 }
 }
